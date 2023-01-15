@@ -1,0 +1,49 @@
+.div3a{
+    color: brown;
+    width: 1340px;
+    height: 700px;
+    background-color: rgb(27, 27, 27);
+    left: 0;
+    right: 0;
+    position: relative;
+}
+
+.div3b{
+    position: absolute;
+    top: 200px;color: white;
+    left: 120px;
+}
+.div3c{position: absolute;
+    top: 200px;color: white;
+    left: 370px;}
+.div3d{position: absolute;
+    top: 200px;color: white;
+    left: 620px;}
+.div3e{position: absolute;
+    top: 200px;color: white;
+    left: 870px;}
+.div3f{position: absolute;
+    top: 240px;color: white;
+    left: 1120px;}
+.div3g{position: absolute;padding-left: 80px;
+    bottom: 60px;padding-top: 20px;
+    left: 565px;color: white;background-color: RED;
+color: white;border: none;
+width: 230px;
+height: 50px;
+}
+.div3h{
+    padding-top:20px;
+    padding-left: 40px;
+}    
+.div3i{
+    padding-left: 70px;
+} 
+.div3j{
+    padding-left: 28px;
+    padding-top: 35px;
+}
+
+.seeme{
+    position: absolute;color: white;top: 40px;
+}
